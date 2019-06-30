@@ -10,4 +10,4 @@ greeting(inputName)
 
 
 # inputStrip = gets.strip
-greeting(inputStrip)
+# greeting(inputStrip)
