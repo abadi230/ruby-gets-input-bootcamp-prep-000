@@ -1,5 +1,5 @@
 def greeting(name)
   puts "Hi, #{name}! Welcome to the wonderful world of Ruby programming."
 end
-inputName= gets.s 
+inputName= gets.String
 greeting(inputName)
